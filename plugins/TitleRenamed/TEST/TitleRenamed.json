@@ -13,7 +13,7 @@
   ],
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
-  "IconUrl": "",
+  "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVTitleRenamed/master/res/img/icon.png",
   "Punchline": "Check out my new title! ... Uhmm, renamed, I mean.",
   "Changelog": "Prevent plugin from setting title to be displayed when the title is set to hidden somewhere else.\nFix UI bugs."
 }
