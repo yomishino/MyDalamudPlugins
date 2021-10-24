@@ -3,7 +3,7 @@
     "Author": "yomishino",
     "Name": "Title Renamed [TEST]",
     "InternalName": "TitleRenamed",
-    "AssemblyVersion": "0.1.0.1",
+    "AssemblyVersion": "0.1.0.2",
     "Description": "Rename a title displayed on the nameplate to something else.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yomishino/FFXIVTitleRenamed",
@@ -16,7 +16,7 @@
     "LoadPriority": 0,
     "IconUrl": "",
     "ImageUrls": null,
-    "Punchline": "Check out my new title! ... Uhmm, renamed, I mean",
+    "Punchline": "Check out my new title! ... Uhmm, renamed, I mean.",
     "Changelog": "Small update & issue fix with configuration window UI",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -24,7 +24,7 @@
     "CategoryTags": [
       "UI"
     ],  
-    "LastUpdate": "1635075338",
+    "LastUpdate": "1635082208",
     "DownloadLinkInstall": "https://github.com/yomishino/DalamudPlugins/raw/main/plugins/TitleRenamed/TEST/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/DalamudPlugins/raw/main/plugins/TitleRenamed/TEST/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/DalamudPlugins/raw/main/plugins/TitleRenamed/TEST/latest.zip"
