@@ -17,7 +17,7 @@
     "IconUrl": "",
     "ImageUrls": null,
     "Punchline": "Check out my new title! ... Uhmm, renamed, I mean.",
-    "Changelog": "Small update & issue fix with configuration window UI",
+    "Changelog": "Show a message in game chat on enable/disable commands.\nSmall update & issue fix with configuration window UI",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
