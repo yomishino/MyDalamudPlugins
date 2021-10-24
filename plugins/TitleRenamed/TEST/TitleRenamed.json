@@ -1,8 +1,8 @@
 {
   "Author": "yomishino",
-  "Name": "Title Renamed [TEST]",
+  "Name": "Title Renamed",
   "InternalName": "TitleRenamed",
-  "AssemblyVersion": "0.1.0.1",
+  "AssemblyVersion": "0.1.0.2",
   "Description": "Rename a title displayed on the nameplate to something else.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/yomishino/FFXIVTitleRenamed",
@@ -14,6 +14,6 @@
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
   "IconUrl": "",
-  "Punchline": "Check out my new title! ... Uhmm, renamed, I mean",
+  "Punchline": "Check out my new title! ... Uhmm, renamed, I mean.",
   "Changelog": ""
 }
