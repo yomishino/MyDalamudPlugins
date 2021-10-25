@@ -20,11 +20,12 @@
     "Changelog": "Text command to open configuration window.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
+    "TestingAssemblyVersion": "1.0.1.0",
     "DownloadCount": 0,
     "CategoryTags": [
       "UI"
     ],  
-    "LastUpdate": "1635156691",
+    "LastUpdate": "1635157198",
     "DownloadLinkInstall": "https://github.com/yomishino/DalamudPlugins/raw/main/plugins/TitleRenamed/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/DalamudPlugins/raw/main/plugins/TitleRenamed/TEST/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/DalamudPlugins/raw/main/plugins/TitleRenamed/latest.zip"
@@ -48,7 +49,7 @@
     "ImageUrls": null,
     "Punchline": "Check out my new title! ... Uhmm, renamed, I mean.",
     "Changelog": "Text command to open configuration window.",
-    "IsHide": "False",
+    "IsHide": "True",
     "IsTestingExclusive": "True",
     "DownloadCount": 0,
     "CategoryTags": [
