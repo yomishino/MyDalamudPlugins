@@ -2,7 +2,7 @@
   "Author": "yomishino",
   "Name": "Title Renamed",
   "InternalName": "TitleRenamed",
-  "AssemblyVersion": "0.1.1.1",
+  "AssemblyVersion": "1.0.1.0",
   "Description": "Rename a title displayed on the nameplate to something else.\nOptionally, hide a specific title.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/yomishino/FFXIVTitleRenamed",
@@ -15,5 +15,5 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVTitleRenamed/master/res/img/icon.png",
   "Punchline": "Check out my new title! ... Uhmm, renamed, I mean.",
-  "Changelog": "Prevent plugin from setting title to be displayed when the title is set to hidden somewhere else.\nFix UI bugs."
+  "Changelog": "Text command to open configuration window"
 }
