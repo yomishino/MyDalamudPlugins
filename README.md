@@ -6,7 +6,7 @@ Repo to hold my Dalamud plugins.
 
 Add the URL below to Dalamud's Custom Plugin Repositories in Dalamud Settings:
 ```
-https://raw.githubusercontent.com/yomishino/DalamudPlugins/main/plugins.json
+https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json
 ```
 
 May include test builds. 
