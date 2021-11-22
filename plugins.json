@@ -1,6 +1,39 @@
 [
   {
     "Author": "yomishino",
+    "Name": "Aether Compass [TEST]",
+    "InternalName": "AetherCompass",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "This plugin auto detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, such as pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\nand more on the way.",
+    "Tags": [
+      "UI",
+      "map",
+      "compass",
+      "aether-currents",
+      "mob-hunt"
+    ],
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/yomishino/FFXIVAetherCompass",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "Punchline": "An Aether compass that auto detects nearby Aether Currents --- and more",
+    "Changelog": "",
+    "ImageUrls": null,
+    "IconUrl": "https://github.com/yomishino/FFXIVAetherCompass/res/img/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "True",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1637591236",
+    "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/TEST/latest.zip",
+    "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/TEST/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/TEST/latest.zip"
+  },
+  {
+    "Author": "yomishino",
     "Name": "Title Renamed",
     "InternalName": "TitleRenamed",
     "AssemblyVersion": "1.0.2.0",
