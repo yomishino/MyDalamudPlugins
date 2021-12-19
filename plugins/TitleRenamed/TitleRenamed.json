@@ -11,7 +11,7 @@
     "title",
     "nameplate"
   ],
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVTitleRenamed/master/res/img/icon.png",
   "Punchline": "Check out my new title! ... Uhmm, renamed, I mean.",
