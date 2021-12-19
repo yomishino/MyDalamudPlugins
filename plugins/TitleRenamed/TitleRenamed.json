@@ -15,5 +15,5 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVTitleRenamed/master/res/img/icon.png",
   "Punchline": "Check out my new title! ... Uhmm, renamed, I mean.",
-  "Changelog": "Bump version"
+  "Changelog": "Text command to open configuration window"
 }
