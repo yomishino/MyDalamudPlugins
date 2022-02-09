@@ -3,7 +3,7 @@
     "Author": "yomishino",
     "Name": "ActionEffectRange",
     "InternalName": "ActionEffectRange",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
     "Tags": [
       "UI",
@@ -16,7 +16,7 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
-    "Changelog": "Stable release",
+    "Changelog": "- Add debug logging option",
     "ImageUrls": null,
     "IconUrl": "",
     "IsHide": "False",
@@ -24,7 +24,7 @@
     "DownloadCount": 0,
     "CategoryTags": [
     ],
-    "LastUpdate": "1644134431",
+    "LastUpdate": "1644424273",
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/latest.zip"
@@ -49,7 +49,7 @@
     "Changelog": "",
     "ImageUrls": null,
     "IconUrl": "",
-    "IsHide": "False",
+    "IsHide": "True",
     "IsTestingExclusive": "True",
     "TestingAssemblyVersion": "0.1.3.4",
     "DownloadCount": 0,
