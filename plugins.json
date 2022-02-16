@@ -114,7 +114,7 @@
     "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
     "ImageUrls": null,
     "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVAetherCompass/master/res/img/icon.png",
-    "IsHide": "False",
+    "IsHide": "True",
     "IsTestingExclusive": "True",
     "TestingAssemblyVersion": "1.3.1.1",
     "DownloadCount": 0,
