@@ -3,7 +3,7 @@
     "Author": "yomishino",
     "Name": "ActionEffectRange",
     "InternalName": "ActionEffectRange",
-    "AssemblyVersion": "1.2.0.2",
+    "AssemblyVersion": "1.4.0.0",
     "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
     "Tags": [
       "UI",
@@ -13,10 +13,10 @@
     ],
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
-    "Changelog": "- New setting to enable/disable drawing for actions of Special/Artillery categories",
+    "Changelog": "Patch 6.1 update\n(Note: Please expect incorrect drawing for some of the new skills added in Patch 6.1. I'm working on fixing it.)\n\n- New option to display effect range while casting \n- Cone AoE drawing customisation",
     "ImageUrls": null,
     "IconUrl": "",
     "IsHide": "False",
@@ -24,7 +24,7 @@
     "DownloadCount": 0,
     "CategoryTags": [
     ],
-    "LastUpdate": "1645808701",
+    "LastUpdate": "1650036268",
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/latest.zip"
