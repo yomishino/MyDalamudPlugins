@@ -43,7 +43,7 @@
     ],
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
     "ImageUrls": null,
