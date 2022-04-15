@@ -64,7 +64,7 @@
     "Author": "yomishino",
     "Name": "Aether Compass",
     "InternalName": "AetherCompass",
-    "AssemblyVersion": "1.4.0.1",
+    "AssemblyVersion": "1.4.1.0",
     "Description": "This plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Quest-related NPCs/Objects \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yomishino/FFXIVAetherCompass",
@@ -77,7 +77,7 @@
     ],
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yomishino/FFXIVAetherCompass",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
     "Changelog": "",
@@ -89,11 +89,11 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1647851316",
+    "LastUpdate": "1650044316",
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
-    "Changelog": "- New settings for on-screen marker visibility"
+    "Changelog": "Patch 6.1 update"
   },
   {
     "Author": "yomishino",
