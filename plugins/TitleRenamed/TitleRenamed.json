@@ -2,7 +2,7 @@
   "Author": "yomishino",
   "Name": "Title Renamed",
   "InternalName": "TitleRenamed",
-  "AssemblyVersion": "1.0.3.0",
+  "AssemblyVersion": "1.0.4.0",
   "Description": "Rename a title displayed on the nameplate to something else.\nOptionally, hide a specific title.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/yomishino/FFXIVTitleRenamed",
@@ -11,9 +11,9 @@
     "title",
     "nameplate"
   ],
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVTitleRenamed/master/res/img/icon.png",
   "Punchline": "Check out my new title! ... Uhmm, renamed, I mean.",
-  "Changelog": "Text command to open configuration window"
+  "Changelog": "Patch 6.1 update"
 }
