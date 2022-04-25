@@ -2,7 +2,7 @@
   "Author": "yomishino",
   "Name": "ActionEffectRange",
   "InternalName": "ActionEffectRange",
-  "AssemblyVersion": "1.4.3.0",
+  "AssemblyVersion": "1.4.4.0",
   "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
@@ -16,5 +16,5 @@
   "LoadPriority": 0,
   "IconUrl": "",
   "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
-  "Changelog": "Fix incorrect drawing for some Patch 6.1 skills \n\n(Note: Fixing for some of the new skills is still ongoing.)"
+  "Changelog": "Fix incorrect drawing for some Patch 6.1 skills"
 }
