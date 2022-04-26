@@ -19,7 +19,7 @@
     "Changelog": "Fix incorrect drawing for some Patch 6.1 skills",
     "ImageUrls": null,
     "IconUrl": "",
-    "IsHide": "False",
+    "IsHide": "True",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
@@ -48,7 +48,7 @@
     "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
     "ImageUrls": null,
     "IconUrl": "",
-    "IsHide": "False",
+    "IsHide": "True",
     "IsTestingExclusive": "True",
     "TestingAssemblyVersion": "1.4.0.0",
     "DownloadCount": 0,
