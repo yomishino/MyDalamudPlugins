@@ -2,7 +2,7 @@
   "Author": "yomishino",
   "Name": "ActionEffectRange",
   "InternalName": "ActionEffectRange",
-  "AssemblyVersion": "1.4.4.1",
+  "AssemblyVersion": "1.4.5.0",
   "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
@@ -16,5 +16,5 @@
   "LoadPriority": 0,
   "IconUrl": "",
   "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
-  "Changelog": "Patch 6.11 Update"
+  "Changelog": "Fixed a bug where some actions with multiple areas of effects such as Pneuma would have only one AoE shown regardless of configurations"
 }
