@@ -162,8 +162,8 @@
     "Author": "yomishino",
     "Name": "Title Renamed [TEST]",
     "InternalName": "TitleRenamed",
-    "AssemblyVersion": "1.0.1.0",
-    "Description": "NOTE: This is a test build of the plugin.\n\nRename a title displayed on the nameplate to something else.\nOptionally, hide a specific title.",
+    "AssemblyVersion": "1.0.4.1",
+    "Description": "Rename a title displayed on the nameplate to something else.\nOptionally, hide a specific title.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yomishino/FFXIVTitleRenamed",
     "Tags": [
@@ -171,20 +171,20 @@
       "title",
       "nameplate"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 7,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVTitleRenamed/master/res/img/icon.png",
     "ImageUrls": null,
     "Punchline": "Check out my new title! ... Uhmm, renamed, I mean.",
-    "Changelog": "Text command to open configuration window.",
-    "IsHide": "True",
+    "Changelog": "Patch 6.2 update",
+    "IsHide": "False",
     "IsTestingExclusive": "True",
-    "TestingAssemblyVersion": "1.0.1.0",
+    "TestingAssemblyVersion": "1.0.4.1",
     "DownloadCount": 0,
     "CategoryTags": [
       "UI"
     ],  
-    "LastUpdate": "1635157198",
+    "LastUpdate": "1661342778",
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/TitleRenamed/TEST/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/TitleRenamed/TEST/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/TitleRenamed/TEST/latest.zip"
