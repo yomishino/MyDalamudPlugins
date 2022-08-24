@@ -48,8 +48,8 @@
     "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
     "ImageUrls": null,
     "IconUrl": "",
-    "IsHide": "True",
-    "IsTestingExclusive": "False",
+    "IsHide": "False",
+    "IsTestingExclusive": "True",
     "TestingAssemblyVersion": "1.4.6.1",
     "DownloadCount": 0,
     "CategoryTags": [
