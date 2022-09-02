@@ -61,42 +61,32 @@
     "Changelog": "Patch 6.2 update"
   },
   {
+    "Name": "Aether Compass [Preview]",
     "Author": "yomishino",
-    "Name": "Aether Compass",
-    "InternalName": "AetherCompass",
-    "AssemblyVersion": "1.5.0.4",
+    "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
     "Description": "This plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Island Sanctuary Gathering Objects and Animals\n\t- [Experimental] Quest-related NPCs/Objects \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.\n\nIcon by Lumas Arkfrost",
-    "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yomishino/FFXIVAetherCompass",
     "Tags": [
-      "UI",
-      "map",
-      "compass",
-      "aether-currents",
-      "mob-hunt"
+    "UI",
+    "map",
+    "compass"
     ],
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/yomishino/FFXIVAetherCompass",
-    "DalamudApiLevel": 7,
-    "LoadPriority": 0,
-    "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
-    "Changelog": "",
-    "ImageUrls": null,
+    "ImageUrls": "",
     "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVAetherCompass/master/res/img/icon_by_arkfrostlumas.png",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1662105147",
+    "DalamudApiLevel": 7,
+    "InternalName": "AetherCompassPreview",
+    "ApplicableVersion": "any",
+    "LoadPriority": 0,    
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
-    "Changelog": "New compass for Island Sanctuary (testing)"
+    "AssemblyVersion": "1.5.0.4",
+    "IsTestingExclusive": "False",
+    "Changelog": "New compass for Island Sanctuary (testing)",
+    "LastUpdate": "1662126158"
   },
   {
-    "Name": "Aether Compass",
+    "Name": "Aether Compass [PREVIEW] [TEST]",
     "Author": "yomishino",
     "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
     "Description": "This plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Island Sanctuary Gathering Objects and Animals\n\t- [Experimental] Quest-related NPCs/Objects \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.\n\nIcon by Lumas Arkfrost",
