@@ -17,5 +17,5 @@
     "LoadPriority": 0,
     "AssemblyVersion": "1.5.1.0",
     "IsTestingExclusive": "False",
-    "Changelog": "New compass for Island Sanctuary (testing)"
+    "Changelog": "- New compass for Island Sanctuary (testing)\n- Update to configuration loading"
 }
