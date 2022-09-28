@@ -80,10 +80,10 @@
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
-    "AssemblyVersion": "1.5.1.0",
+    "AssemblyVersion": "1.5.2.0",
     "IsTestingExclusive": "False",
-    "Changelog": "- New compass for Island Sanctuary (testing)\n- Update to configuration loading",
-    "LastUpdate": "1662203799"
+    "Changelog": "- Fix config loading issue (Thanks to Caraxi)",
+    "LastUpdate": "1664359544"
   },
   {
     "Name": "Aether Compass [PREVIEW] [TEST]",
