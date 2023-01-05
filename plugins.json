@@ -108,7 +108,7 @@
     "IsTestingExclusive": "True",
     "TestingAssemblyVersion": "1.6.0.0",
     "Changelog": "- New compass Eureka Elementals for detecting elementals in Eureka (by apetih)\n- Update and bug fixes for Island Sanctuary Compass options",
-    "LastUpdate": "1672939685",
+    "LastUpdate": "1672940398",
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/TEST/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/TEST/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/TEST/latest.zip",
