@@ -3,28 +3,26 @@
     "Author": "yomishino",
     "Name": "ActionEffectRange",
     "InternalName": "ActionEffectRange",
-    "AssemblyVersion": "1.4.6.2",
+    "AssemblyVersion": "1.4.6.3",
     "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
-    "Tags": [
-      "UI",
-      "AoE",
-      "Action",
-      "EffectRange"
+    "CategoryTags": [
+      "UI"
     ],
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
-    "DalamudApiLevel": 7,
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
-    "Changelog": "Patch 6.2 update",
+    "Changelog": "Patch 6.3 update",
     "ImageUrls": null,
     "IconUrl": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": [
-    ],
-    "LastUpdate": "1661498386",
+    "AcceptsFeedback": true,
+    "LastUpdate": "1673955095",
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/latest.zip"
