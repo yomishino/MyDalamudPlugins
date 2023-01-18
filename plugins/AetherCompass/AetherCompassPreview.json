@@ -14,10 +14,12 @@
     "ImageUrls": "",
     "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVAetherCompass/master/res/img/icon_by_arkfrostlumas.png",
     "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
     "InternalName": "AetherCompassPreview",
     "ApplicableVersion": "any",
-    "LoadPriority": 0,
-    "AssemblyVersion": "1.6.1.0",
+    "AssemblyVersion": "1.6.2.0",
     "IsTestingExclusive": "False",
-    "Changelog": "- Patch 6.3 update\n----\n- New compass Eureka Elementals for detecting elementals in Eureka (by apetih)\n- Update and bug fixes for Island Sanctuary Compass options"
+    "Changelog": "- Config Window bug fix"
 }
