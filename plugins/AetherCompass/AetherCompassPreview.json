@@ -19,7 +19,7 @@
     "LoadPriority": 0,
     "InternalName": "AetherCompassPreview",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.6.2.1",
+    "AssemblyVersion": "1.6.2.2",
     "IsTestingExclusive": "False",
     "Changelog": "- Config Window bug fix"
 }
