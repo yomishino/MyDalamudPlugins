@@ -77,10 +77,10 @@
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
-    "AssemblyVersion": "1.6.2.1",
+    "AssemblyVersion": "1.6.2.2",
     "IsTestingExclusive": "False",
     "Changelog": "- Config Window bug fix",
-    "LastUpdate": "1674035476"
+    "LastUpdate": "1674035873"
   },
   {
     "Name": "Aether Compass [PREVIEW] [TEST]",
