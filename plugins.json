@@ -77,10 +77,10 @@
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
-    "AssemblyVersion": "1.6.1.0",
+    "AssemblyVersion": "1.6.2.0",
     "IsTestingExclusive": "False",
-    "Changelog": "- Patch 6.3 update\n----\n- New compass Eureka Elementals for detecting elementals in Eureka (by apetih)\n- Update and bug fixes for Island Sanctuary Compass options",
-    "LastUpdate": "1673972181"
+    "Changelog": "- Config Window bug fix",
+    "LastUpdate": "1674034777"
   },
   {
     "Name": "Aether Compass [PREVIEW] [TEST]",
