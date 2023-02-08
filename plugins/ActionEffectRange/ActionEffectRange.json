@@ -2,7 +2,7 @@
   "Author": "yomishino",
   "Name": "ActionEffectRange",
   "InternalName": "ActionEffectRange",
-  "AssemblyVersion": "1.4.7.1",
+  "AssemblyVersion": "1.4.8.0",
   "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
@@ -15,6 +15,6 @@
   "LoadPriority": 0,
   "IconUrl": "",
   "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
-  "Changelog": "Minor performance update",
+  "Changelog": "Fix effect range: #25862 Liturgy of the Bell",
   "AcceptsFeedback": true
 }
