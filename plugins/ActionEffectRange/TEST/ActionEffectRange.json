@@ -2,19 +2,19 @@
   "Author": "yomishino",
   "Name": "ActionEffectRange",
   "InternalName": "ActionEffectRange",
-  "AssemblyVersion": "1.4.6.1",
+  "AssemblyVersion": "2.0.0.0",
   "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
-  "Tags": [
-    "UI",
-    "AoE",
-    "Action",
-    "EffectRange"
+  "CategoryTags": [
+    "UI"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
   "IconUrl": "",
   "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
-  "Changelog": "Patch 6.2 update"
+  "Changelog": "Major update v2.0 (TESTING). New features & updates: \n - Effect range for automatically triggered actions, such as heals from Earthly Star when the status effect expires \n - Effect range for summoned pets/companions in addition to ACN/SMN/SCH pets, such as DRK's Esteem and MCH's Autoturret (PvP) \n - Improved implementation and other bug fixes",
+  "AcceptsFeedback": true
 }
