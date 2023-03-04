@@ -30,32 +30,29 @@
     "Author": "yomishino",
     "Name": "ActionEffectRange [TEST]",
     "InternalName": "ActionEffectRange",
-    "AssemblyVersion": "1.4.6.1",
+    "AssemblyVersion": "2.0.0.0",
     "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
-    "Tags": [
-      "UI",
-      "AoE",
-      "Action",
-      "EffectRange"
+    "CategoryTags": [
+      "UI"
     ],
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
-    "DalamudApiLevel": 7,
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
     "ImageUrls": null,
     "IconUrl": "",
     "IsHide": "False",
     "IsTestingExclusive": "True",
-    "TestingAssemblyVersion": "1.4.6.1",
+    "TestingAssemblyVersion": "2.0.0.0",
     "DownloadCount": 0,
-    "CategoryTags": [
-    ],
-    "LastUpdate": "1661343098",
+    "LastUpdate": "1677939493",
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/TEST/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/TEST/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/TEST/latest.zip",
-    "Changelog": "Patch 6.2 update"
+    "Changelog": "Major update v2.0 (TESTING). New features & updates: \n - Effect range for automatically triggered actions, such as heals from Earthly Star when the status effect expires \n - Effect range for summoned pets/companions in addition to ACN/SMN/SCH pets, such as DRK's Esteem and MCH's Autoturret (PvP) \n - Improved implementation and other bug fixes"
   },
   {
     "Name": "Aether Compass [Preview]",
