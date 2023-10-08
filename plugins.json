@@ -101,7 +101,7 @@
     "AssemblyVersion": "1.6.3.0",
     "IsTestingExclusive": "True",
     "TestingAssemblyVersion": "1.6.3.0",
-    "Changelog": "- Tentative update to work with Dalamud API 9"
+    "Changelog": "- Tentative update to work with Dalamud API 9",
     "LastUpdate": "1696753029",
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/TEST/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/TEST/latest.zip",
