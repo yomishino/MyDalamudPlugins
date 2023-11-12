@@ -27,9 +27,9 @@ Then install the plugins you'd like to have in Dalamud's Plugin Installer.
 > Please note there is no guarantee testing builds of plugins will function correctly.
 
 - [ActionEffectRange](https://github.com/yomishino/FFXIVActionEffectRange)  
-    **[testing only]** provides a visual cue on the effect range of the AoE action the player has just used
+    provides a visual cue on the effect range of the AoE action the player has just used
 - [AetherCompass](https://github.com/yomishino/FFXIVAetherCompass)  
-    **[testing only]** automatically detects certain objects/NPCs such as Aether Currents nearby and shows where they are
+    automatically detects certain objects/NPCs such as Aether Currents nearby and shows where they are
 - [TitleRenamed](https://github.com/yomishino/FFXIVTitleRenamed)  
     **[not currently maintained]** renames a title displayed on the nameplates
 
