@@ -71,13 +71,13 @@
     "InternalName": "AetherCompassPreview",
     "ApplicableVersion": "any",
     "LoadPriority": 0,
-    "AssemblyVersion": "1.6.3.1",
+    "AssemblyVersion": "1.6.4.0",
     "IsTestingExclusive": "False",
-    "Changelog": "- Update: Dalamud API 9 compatibility",
+    "Changelog": "- Fix: Not detecting gathering objects in Island Sanctuary",
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
-    "LastUpdate": "1699768581"
+    "LastUpdate": "1700053462"
   },
   {
     "Name": "Aether Compass [PREVIEW] [TEST]",
