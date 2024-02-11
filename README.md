@@ -31,7 +31,7 @@ Then install the plugins you'd like to have in Dalamud's Plugin Installer.
 - [AetherCompass](https://github.com/yomishino/FFXIVAetherCompass)  
     automatically detects certain objects/NPCs such as Aether Currents nearby and shows where they are
 - [TitleRenamed](https://github.com/yomishino/FFXIVTitleRenamed)  
-    **[not currently maintained]** renames a title displayed on the nameplates
+    renames a title displayed on the nameplates
 
 
 ### Notes on Test Builds
